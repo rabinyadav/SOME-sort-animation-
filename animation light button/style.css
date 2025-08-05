@@ -1,8 +1,6 @@
 /* 
   Project: CSS Glowing Button
-  Created: Sunday, 06 March 2022
-  Author: Jamshid Elmi 
-  Tutorial: https://youtu.be/b_8fHNIHFk4
+  Author: Rabin yadav
 */
  body {
   display: flex;
@@ -76,4 +74,5 @@
 .btn:active {
   color: #000;
   font-weight: bold;
+
 }
